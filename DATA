@@ -1,0 +1,8 @@
+1. Kenya Social Accounting Matrix 2021 downloaded from 
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XLKGGA
+
+2. World Bank Indicators (2010-2024) downloaded from https://data.worldbank.org/country/kenya
+
+3. United Nations Sustainable Development Goals (SDG) downloaded from
+https://data.worldbank.org/country/kenya and Google Cloud Platform (GCP) via marketplace BigQuery SQL 
+extraction https://console.cloud.google.com/marketplace/product/un-statistics-division/unsdgs?project=tactical-elf-452307-d3
