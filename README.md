@@ -1,4 +1,4 @@
-# Interdisciplinary advanced data science and artificial intelligence approach for Socio-Economic Resilience and Sustainability Assessment of Kenya
+# Interdisciplinary Advanced Data Science and Artificial Intelligence approach for Socio-Economic Resilience and Sustainability Assessment of Kenya
 
 ## Project Overview
 
